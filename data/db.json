@@ -1,0 +1,9 @@
+{
+    "blogs":[
+        {"id":1, "title":"Diagrams", "body":"Security-first diagramming for teams. · Diagram files created in 2005 will load in the app today · Our range of diagrams.net and draw.io branded integrations.", "author":"Diagrams.net" },
+        {"id":2, "title":"Project setting up", "body":"The Windows Installer program then starts up and displays a series of installation dialogs . ... Merge Module Project A Merge Module project packages reusable setup information that can be independently maintained and then merged as a", "author":"Robert J."},
+        {"id":3, "title":"Security", "body":"Writing Secure Applications Using C# or Visual Basic .NET Adam Freeman, Allen Jones. The most common types of roles mirror the jobs and activities we perform in everyday life, such as teller, manager, or administrator", "author":"Allen Johns"},
+        {"id":4, "title":"Version", "body":"Overview.NET Framework 1.0 .NET Framework 1.1 .NET Framework 2.0 .NET Framework 3.0 .NET Framework 3.5.", "author":"Microsoft"}
+        
+    ]
+}
